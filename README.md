@@ -1,2 +1,2 @@
 # my-ticket-java
-This will replace the light 0 texture with a ticket texture, use an anvil to change its name to a ticket!  Update: I have decided to release the new 1.26.1 Pre-Release my ticket java release publicly! Download here: https://github.com/Blazer1009/my-ticket-java/releases/tag/Pre-release5-1.26.1 . Update2: It is now available on Modrinth
+This will replace the light 0 texture with a ticket texture, use an anvil to change its name to a ticket! The final version for 1.26.1 is now out. You can Download the version here: N/A .
