@@ -4,7 +4,7 @@ Turn the **Light 0** into a ticket! Simply use an anvil to rename the item to **
 
 The **final release for Minecraft 26.2** is now available!
 
-This simple Minecraft Java resource pack replaces the Light 0 texture with a ticket design featuring an orange color scheme and reflective details. It’s perfect for **servers, events, custom maps, and other creative projects**.
+This simple Minecraft Java resource pack replaces the Light 0 texture with a ticket design featuring an orange colour scheme and reflective details. It’s perfect for **servers, events, custom maps, and other creative projects**.
 
 ### Features
 
