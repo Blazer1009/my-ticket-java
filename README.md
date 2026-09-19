@@ -2,7 +2,7 @@
 
 Turn the **Light 0** into a ticket! Simply use an anvil to rename the item to **“Ticket”**, and it will transform into a custom ticket design.
 
-The **final release for Minecraft 26.2** is now available!
+The **final release for Minecraft 26.3** is now available!
 
 This simple Minecraft Java resource pack replaces the Light 0 texture with a ticket design featuring an orange colour scheme and reflective details. It’s perfect for **servers, events, custom maps, and other creative projects**.
 
@@ -25,6 +25,6 @@ This simple Minecraft Java resource pack replaces the Light 0 texture with a tic
 6. Return to Minecraft and enable the resource pack.
 7. Use an anvil to rename a **Light 0** to **“Ticket”** and enjoy your new ticket!
 
-**Download:** https://github.com/Blazer1009/my-ticket-java/releases/tag/26.2
+**Download:** https://github.com/Blazer1009/my-ticket-java/releases/tag/26.3
 
 **Website:** https://blazer1009.github.io/resource-packs-java/
